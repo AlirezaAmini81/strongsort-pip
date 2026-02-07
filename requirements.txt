@@ -1,6 +1,6 @@
 easydict==1.10
-gdown==4.5.3
+gdown
 motmetrics==1.2.5
 opencv-python>=4.6,<5
-torch==1.13.0
-torchvision==0.14.0
+torch==2.1.0
+torchvision
